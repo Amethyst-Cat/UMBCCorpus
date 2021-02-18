@@ -1,0 +1,19 @@
+,Unnamed: 0,OlfN_x,TotalN_x,Tokens_x,OAI_x,OSI_x,OlfN_y,TotalN_y,Tokens_y,OAI_y,OSI_y
+0,ever_RB,534,67276,['ever_RB'],-6.977108378,9.69155403,1098,67276,['ever_RB'],-5.937141971,8.330427132
+1,taste_NN,92,10719,"['taste_NN', 'taste_NNS']",-6.8643207429999995,12.22868801,89,10719,"['taste_NN', 'taste_NNS']",-6.912149267999999,11.95535604
+2,'d_MD,483,51923,"[""'d_MD""]",-6.748206742000001,9.836370582999999,945,51923,"[""'d_MD""]",-5.779915602000001,8.546918952
+3,'ve_VB,993,106163,"[""'ve_VBP"", ""'ve_VB""]",-6.740271612000001,8.796600053999999,3480,106163,"[""'ve_VBP"", ""'ve_VB""]",-4.931049928,6.66621788
+4,respondent_NN,344,36464,"['respondent_NNS', 'respondent_NN', 'respondent_NNP']",-6.727920455,10.32598521,450,36463,"['respondent_NN', 'respondent_NNS', 'respondent_NNP']",-6.340364452999999,9.617308279
+5,love_VB,350,36695,"['love_VBN', 'love_VBP', 'love_VBD', 'love_VBZ', 'love_VB', 'love_VBG']",-6.712084765,10.30103885,420,36286,"['love_VB', 'love_VBP', 'love_VBZ', 'love_VBN', 'love_VBD']",-6.432879891,9.716843953
+6,anything_NN,506,52768,['anything_NN'],-6.704382109,9.769256387,543,52768,['anything_NN'],-6.602567296,9.346281083
+7,someone_NN,517,53009,"['someone_NN', 'someone_NNS']",-6.679929233999999,9.738229491,534,52987,"['someone_NN', 'someone_NNP']",-6.632654896,9.370393539
+8,never_RB,1362,117774,['never_RB'],-6.434150569,8.340738974,2485,117774,['never_RB'],-5.56663142,7.152059334
+9,cry_VB,109,8859,"['cry_VB', 'cry_VBG', 'cry_VBP', 'cry_VBD', 'cry_VBZ']",-6.344743817,11.98406564,250,8863,"['cry_VBZ', 'cry_VBG', 'cry_VBP', 'cry_VBD', 'cry_VB']",-5.147795113,10.46530519
+10,touch_VB,198,12909,"['touch_VBN', 'touch_VBP', 'touch_VBD', 'touch_VB', 'touch_VBG']",-6.026733006000001,11.12289334,120,12929,"['touch_VBN', 'touch_VBD', 'touch_VB', 'touch_VBG', 'touch_VBP', 'touch_VBZ']",-6.751432477000001,11.52419888
+11,suddenly_RB,297,13000,['suddenly_RB'],-5.451904882000001,10.53793084,137,13000,['suddenly_RB'],-6.56819192,11.33305739
+12,smell_VB,88,3703,"['smell_VBZ', 'smell_VBD', 'smell_VB', 'smell_VBN', 'smell_VBP', 'smell_VBG']",-5.395047216,12.29281834,148,3705,"['smell_VBN', 'smell_VBD', 'smell_VB', 'smell_VBZ', 'smell_VBG', 'smell_VBP']",-4.645804462,11.22163611
+13,strange_JJ,358,10821,"['strange_JJ', 'strange_JJS']",-4.917730431,10.26843418,106,10821,"['strange_JJ', 'strange_JJS']",-6.673625754,11.70316902
+14,sad_JJ,342,6169,"['sad_JJ', 'sad_JJR', 'sad_JJS']",-4.172968416000001,10.33439745,53,6169,"['sad_JJ', 'sad_JJS', 'sad_JJR']",-6.862900476,12.70316902
+15,anxious_JJ,225,3761,['anxious_JJ'],-4.0631194,10.93846877,46,3761,['anxious_JJ'],-6.353338635,12.90752751
+16,tired_JJ,338,4269,['tired_JJ'],-3.6588030110000003,10.35137053,52,4269,['tired_JJ'],-6.359242729,12.73064975
+17,sorry_JJ,575,6136,"['sorry_JJ', 'sorry_JJS', 'sorry_JJR']",-3.415664622,9.584831816,110,6119,['sorry_JJ'],-5.79772047,11.64972976

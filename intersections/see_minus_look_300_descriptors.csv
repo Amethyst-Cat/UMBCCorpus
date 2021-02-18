@@ -1,0 +1,211 @@
+,Unnamed: 0,OlfN,TotalN,Tokens,OAI,OSI
+0,mpep_NN,244,356,['mpep_NNP'],-0.544996093,12.05328469
+1,sidebar_NN,150,536,"['sidebar_NN', 'sidebar_NNP', 'sidebar_NNS']",-1.8372705000000003,12.75520334
+2,firsthand_RB,199,940,['firsthand_RB'],-2.239892326,12.34739741
+3,fit_JJ,274,1764,['fit_JJ'],-2.6866027630000002,11.88598994
+4,appendix_NN,894,6712,"['appendix_NNP', 'appendix_NN', 'appendix_NNS', 'appendix_NNPS']",-2.908395979,10.179891
+5,oracle9i_NN,162,1568,"['oracle9i_NNP', 'oracle9i_NNS']",-3.274859841,12.64417202
+6,fit_NN,774,8181,"['fit_NN', 'fit_NNS', 'fit_NNP']",-3.401871729,10.38783227
+7,fig_NN,628,6755,"['fig_NNP', 'fig_NNS', 'fig_NN']",-3.427119305,10.68940128
+8,glad_JJ,509,6118,['glad_JJ'],-3.587322545,10.99250018
+9,holy_NN,462,6124,['holy_NNP'],-3.7285095260000003,11.13227298
+11,kan._NN,836,12167,['kan._NNP'],-3.8633267360000003,10.27666289
+12,figure_NN,3369,54374,"['figure_NN', 'figure_NNS', 'figure_NNP']",-4.01252463,8.265917313
+13,supp_NN,179,3036,['supp_NNP'],-4.084140298,12.50020625
+15,naked_JJ,183,3221,['naked_JJ'],-4.137593107,12.46832219
+16,surprise_VB,482,8491,"['surprise_VBN', 'surprise_VBD', 'surprise_VB', 'surprise_VBP']",-4.1388294210000005,11.07113269
+18,rarely_RB,644,11926,['rarely_RB'],-4.2109057430000005,10.65310515
+19,ever_RB,3375,67276,['ever_RB'],-4.317132523,8.263350239
+22,'d_VB,158,3295,"[""'d_VBD""]",-4.382282002,12.68024128
+23,k.s.a._NN,682,14382,['k.s.a._NNP'],-4.398348765,10.5703941
+24,seldom_RB,184,3925,['seldom_RB'],-4.414914983,12.46046007
+25,re_NN,153,3423,"['re_NN', 're_NNP']",-4.4836577339999995,12.72663418
+27,delighted_JJ,158,3620,['delighted_JJ'],-4.5179932339999995,12.68024128
+29,section_NN,4916,113144,"['section_NN', 'section_NNS', 'section_NNP']",-4.524531355,7.720752826
+30,sight_NN,541,12591,"['sight_NNS', 'sight_NN', 'sight_NNP']",-4.540620465,10.90453724
+34,clearly_RB,1792,45340,['clearly_RB'],-4.661141849,9.176667104
+35,pleased_JJ,341,8896,['pleased_JJ'],-4.705313144,11.5703941
+39,please_VB,2392,63260,"['please_VB', 'please_VBN', 'please_VBZ', 'please_VBG', 'please_VBD', 'please_VBP']",-4.7250042610000005,8.760020352
+42,before_RB,724,20666,['before_RB'],-4.835125668,10.48417614
+43,ca_MD,1736,49576,['ca_MD'],-4.835803021,9.222470793
+44,curious_JJ,173,4959,['curious_JJ'],-4.841205282,12.5493938
+45,hate_VB,153,4438,"['hate_VB', 'hate_VBP']",-4.85830611,12.72663418
+46,doctor_NN,1151,33558,"['doctor_NNS', 'doctor_NN', 'doctor_NNP']",-4.865696998,9.815349908
+48,eager_JJ,183,5480,['eager_JJ'],-4.90426034,12.46832219
+49,excite_VB,236,7156,"['excite_VBN', 'excite_VB', 'excite_VBP', 'excite_VBZ', 'excite_VBD']",-4.922294623,12.10137898
+50,emergence_NN,150,4555,['emergence_NN'],-4.924416648,12.75520334
+52,wait_VB,1324,41252,"['wait_VBG', 'wait_VB', 'wait_VBD', 'wait_VBZ', 'wait_VBN', 'wait_VBP']",-4.961489039,9.613334619
+53,table_NN,2237,70563,"['table_NN', 'table_NNP', 'table_NNS', 'table_NNPS']",-4.979274737,8.856672485
+55,hear_VB,2330,74985,"['hear_VB', 'hear_VBG', 'hear_VBZ', 'hear_VBN', 'hear_VBP', 'hear_VBD']",-5.008200168,8.797907786
+61,could_MD,10404,353052,['could_MD'],-5.08467048,6.639171342000001
+62,ad_NN,701,23970,"['ad_NN', 'ad_NNS', 'ad_NNP', 'ad_NNPS']",-5.095671655,10.53075139
+63,check_VB,1403,48361,"['check_VB', 'check_VBN', 'check_VBG', 'check_VBD', 'check_VBZ', 'check_VBP']",-5.107257163,9.529722732
+64,diagram_NN,151,5248,"['diagram_NN', 'diagram_NNS', 'diagram_NNP']",-5.119147265,12.74561729
+65,exhibit_NN,394,13970,"['exhibit_NN', 'exhibit_NNS', 'exhibit_NNPS', 'exhibit_NNP']",-5.1479925810000005,11.36197021
+67,happen_VB,2074,74808,"['happen_VB', 'happen_VBZ', 'happen_VBG', 'happen_VBD', 'happen_VBN', 'happen_VBP']",-5.1727047619999995,8.965821847
+70,light_NN,1327,50230,"['light_NN', 'light_NNS', 'light_NNP']",-5.242308999,9.610069371
+71,detail_NN,1520,58004,"['detail_NNS', 'detail_NN', 'detail_NNP']",-5.254009164,9.414166417999999
+72,can_MD,26329,1016448,['can_MD'],-5.270739873,5.299656918999999
+75,buddha_NN,411,16237,"['buddha_NNP', 'buddha_NN', 'buddha_NNPS', 'buddha_NNS']",-5.304002896,11.30102744
+77,dramatic_JJ,300,11953,['dramatic_JJ'],-5.316266445,11.75520334
+80,v_NN,225,9196,"['v_NNP', 'v_NN', 'v_NNS']",-5.35300956,12.17024083
+82,chance_NN,941,39292,"['chance_NN', 'chance_NNS', 'chance_NNP']",-5.383897071,10.10597111
+85,smoke_NN,218,9434,"['smoke_NN', 'smoke_NNP']",-5.435469561000001,12.2158377
+86,sec_NN,163,7078,"['sec_NN', 'sec_NNP', 'sec_NNS']",-5.440397892000001,12.63529387
+88,advertisement_NN,159,7047,"['advertisement_NN', 'advertisement_NNS', 'advertisement_NNP']",-5.469910542999999,12.67113907
+89,observer_NN,195,8657,"['observer_NNS', 'observer_NN', 'observer_NNP']",-5.47232113,12.37669171
+90,tv_NN,527,23410,"['tv_NN', 'tv_NNP', 'tv_NNS']",-5.473178162000001,10.94236287
+93,chapter_NN,890,39847,"['chapter_NN', 'chapter_NNS', 'chapter_NNP']",-5.484521964,10.1863605
+94,attachment_NN,202,9147,"['attachment_NN', 'attachment_NNP', 'attachment_NNS']",-5.500871452999999,12.32581054
+98,rise_NN,352,16158,"['rise_NN', 'rise_NNS']",-5.520529397000001,11.52459041
+99,decline_NN,317,14558,"['decline_NN', 'decline_NNS', 'decline_NNP']",-5.521185518999999,11.675683
+100,tremendous_JJ,213,9919,['tremendous_JJ'],-5.541269345,12.24931241
+105,creature_NN,162,7728,"['creature_NN', 'creature_NNS']",-5.576029376,12.64417202
+107,increase_NN,1247,59958,"['increase_NN', 'increase_NNS', 'increase_NNPS']",-5.58741889,9.699776276
+111,touch_VB,262,12909,"['touch_VBD', 'touch_VBN', 'touch_VB', 'touch_VBP', 'touch_VBG']",-5.622666624,11.95059902
+112,alive_JJ,205,10102,['alive_JJ'],-5.622873227,12.30454193
+113,here_RB,3276,161482,['here_RB'],-5.6232941929999996,8.306302384
+114,click_VB,645,31825,"['click_VBN', 'click_VB', 'click_VBP', 'click_VBZ', 'click_VBG', 'click_VBD']",-5.624717542999999,10.65086668
+115,beauty_NN,256,12640,"['beauty_NN', 'beauty_NNS']",-5.625708843,11.98402203
+117,nothing_NN,1164,58750,"['nothing_NN', 'nothing_NNP']",-5.657425888,9.799146683
+118,commonly_RB,311,15748,['commonly_RB'],-5.662110227,11.70325126
+119,drop_NN,203,10326,"['drop_NN', 'drop_NNP', 'drop_NNS']",-5.6686579660000005,12.31868611
+120,wonderful_JJ,344,17574,['wonderful_JJ'],-5.674890223999999,11.55775727
+121,hardly_RB,195,10051,['hardly_RB'],-5.687721112,12.37669171
+123,joy_NN,175,9132,"['joy_NN', 'joy_NNP', 'joy_NNS']",-5.705504032,12.53281091
+124,television_NN,558,29202,"['television_NN', 'television_NNS', 'television_NNP']",-5.709658247999999,10.85990071
+126,flash_NN,206,10800,"['flash_NNP', 'flash_NN', 'flash_NNS']",-5.712243165,12.2975215
+127,visitor_NN,483,25338,"['visitor_NNP', 'visitor_NNS', 'visitor_NN', 'visitor_NNPS']",-5.713135653999999,11.06814265
+131,listing_NN,240,12821,"['listing_NN', 'listing_NNPS', 'listing_NNS', 'listing_NNP']",-5.739330576,12.07713143
+132,hope_VB,561,30030,"['hope_VBP', 'hope_VB']",-5.742259894,10.85216507
+133,suffering_NN,160,8565,"['suffering_NN', 'suffering_NNS']",-5.742309436,12.66209393
+134,personally_RB,245,13182,['personally_RB'],-5.7496437160000005,12.04738409
+138,film_NN,1349,73903,"['film_NN', 'film_NNS', 'film_NNP', 'film_NNPS']",-5.775670677000001,9.586347392999999
+140,reflection_NN,189,10375,"['reflection_NN', 'reflection_NNS']",-5.778581292,12.4217796
+141,love_VB,667,36686,"['love_VBN', 'love_VB', 'love_VBP', 'love_VBD', 'love_VBZ', 'love_VBG']",-5.78139904,10.60247907
+142,wo_MD,453,25043,['wo_MD'],-5.788752538,11.16065479
+144,able_JJ,2314,128775,['able_JJ'],-5.798319865,8.807848877
+146,expect_VB,1843,103041,"['expect_VBP', 'expect_VB', 'expect_VBZ', 'expect_VBD', 'expect_VBG', 'expect_VBN']",-5.805018619,9.13618167
+149,paragraph_NN,258,14493,"['paragraph_NN', 'paragraph_NNS', 'paragraph_NNP', 'paragraph_NNPS']",-5.811841382999999,11.97279477
+151,easy_JJ,1325,75021,"['easy_JJ', 'easy_JJR', 'easy_JJS']",-5.823230229,9.612245382000001
+152,look_VB,3598,204454,"['look_VB', 'look_VBP', 'look_VBG', 'look_VBD', 'look_VBZ', 'look_VBN']",-5.828437292,8.171042555
+153,bird_NN,434,24923,"['bird_NNS', 'bird_NN', 'bird_NNP']",-5.843638884,11.22247079
+154,occasionally_RB,184,10669,['occasionally_RB'],-5.8575753829999995,12.46046007
+155,anywhere_RB,230,13360,['anywhere_RB'],-5.860142336,12.13853197
+156,yet_RB,1447,84312,['yet_RB'],-5.864601155,9.485172819
+158,soon_RB,795,47561,['soon_RB'],-5.9026803779999995,10.34921098
+159,plenty_NN,162,9722,"['plenty_NN', 'plenty_NNP']",-5.907187416,12.64417202
+168,easily_RB,632,39418,['easily_RB'],-5.96278621,10.68024128
+171,flag_NN,181,11315,"['flag_NN', 'flag_NNS', 'flag_NNP']",-5.9661030770000005,12.48417614
+175,standing_NN,165,10356,['standing_NN'],-5.971857036,12.61769981
+180,a_NN,283,17960,"['a_NNP', 'a_NN']",-5.987841487000001,11.83936378
+181,documentation_NN,314,19928,"['documentation_NN', 'documentation_NNP']",-5.987888557000001,11.68940128
+183,box_NN,545,34840,"['box_NNS', 'box_NN', 'box_NNP', 'box_NNPS']",-5.998344584,10.89390961
+186,check_NN,448,28806,"['check_NN', 'check_NNS', 'check_NNPS', 'check_NNP']",-6.006726799,11.1766671
+190,pleasure_NN,183,11866,"['pleasure_NN', 'pleasure_NNS']",-6.018846228999999,12.46832219
+191,come_VB,4566,296684,"['come_VB', 'come_VBN', 'come_VBP', 'come_VBD', 'come_VBG', 'come_VBZ']",-6.021852455,7.827306882
+192,desire_NN,359,23379,"['desire_NN', 'desire_NNS', 'desire_NNPS', 'desire_NNP']",-6.025085568,11.49618199
+193,improvement_NN,676,44046,"['improvement_NN', 'improvement_NNS', 'improvement_NNP']",-6.025843951000001,10.58314259
+194,recall_VB,244,15974,"['recall_VB', 'recall_VBZ', 'recall_VBN', 'recall_VBP', 'recall_VBD', 'recall_VBG']",-6.032700661,12.05328469
+195,dream_NN,247,16270,"['dream_NNS', 'dream_NN', 'dream_NNPS', 'dream_NNP']",-6.041559399,12.03565479
+196,frequently_RB,387,25499,['frequently_RB'],-6.041963292999999,11.38783227
+197,chain_NN,268,17746,"['chain_NN', 'chain_NNS', 'chain_NNP']",-6.049117063,11.91793284
+198,wisdom_NN,155,10315,['wisdom_NN'],-6.056331795,12.70789762
+199,difference_NN,1078,71743,"['difference_NN', 'difference_NNS']",-6.0564089910000005,9.909880563
+200,note_NN,791,52947,"['note_NN', 'note_NNS', 'note_NNP']",-6.064727437999999,10.35648814
+201,often_RB,2126,142647,['often_RB'],-6.068163998999999,8.930096144
+203,truth_NN,437,29735,"['truth_NN', 'truth_NNS', 'truth_NNP', 'truth_NNPS']",-6.088384986,11.21253256
+204,vision_NN,470,32143,"['vision_NN', 'vision_NNS', 'vision_NNP']",-6.095700019,11.10750508
+206,more_JJ,6232,428747,['more_JJR'],-6.104287533,7.378542508
+207,neighbor_NN,217,14937,"['neighbor_NN', 'neighbor_NNS', 'neighbor_NNP']",-6.1050515679999995,12.22247079
+211,readily_RB,151,10526,['readily_RB'],-6.12326494,12.74561729
+212,disappear_VB,156,10905,"['disappear_VBP', 'disappear_VBG', 'disappear_VBD', 'disappear_VB', 'disappear_VBN', 'disappear_VBZ']",-6.1272999310000005,12.69861981
+214,demonstration_NN,219,15443,"['demonstration_NNS', 'demonstration_NN', 'demonstration_NNP']",-6.139878362,12.20923497
+216,being_NN,205,14513,"['being_NN', 'being_NNS', 'being_NNPS']",-6.145578052,12.30454193
+217,move_NN,259,18441,"['move_NN', 'move_NNS']",-6.153820982999999,11.96721374
+218,show_NN,727,51764,"['show_NNS', 'show_NN', 'show_NNP']",-6.15384993,10.47821047
+220,walk_VB,603,43043,"['walk_VBZ', 'walk_VBG', 'walk_VBP', 'walk_VBD', 'walk_VB', 'walk_VBN']",-6.1574768220000005,10.74800783
+221,last_JJ,2314,165228,"['last_JJ', 'last_JJS']",-6.157925516000001,8.807848877
+222,wish_VB,571,40877,"['wish_VB', 'wish_VBP', 'wish_VBZ', 'wish_VBD', 'wish_VBN', 'wish_VBG']",-6.161654764,10.82667509
+225,difficult_JJ,914,66392,['difficult_JJ'],-6.182671437000001,10.14797167
+226,band_NN,406,29507,"['band_NN', 'band_NNS', 'band_NNP']",-6.183433711,11.31868611
+227,huge_JJ,346,25194,['huge_JJ'],-6.186164346,11.5493938
+229,list_NN,1404,102402,"['list_NN', 'list_NNS', 'list_NNP', 'list_NNPS']",-6.188557147,9.528694806
+230,would_MD,8964,653954,['would_MD'],-6.188902699,6.8540950920000006
+231,go_VB,5482,400055,"['go_VBG', 'go_VB', 'go_VBD', 'go_VBP', 'go_VBZ', 'go_VBN']",-6.189352219,7.563535412999999
+232,phenomenon_NN,218,15911,"['phenomenon_NN', 'phenomenon_NNS', 'phenomenon_NNP']",-6.189552566000001,12.2158377
+233,much_JJ,1644,120610,['much_JJ'],-6.196995418999999,9.301027442
+236,best_RB,175,12866,"['best_RB', 'best_RBS']",-6.2000648620000005,12.53281091
+237,already_RB,1279,94039,['already_RB'],-6.200171028,9.663221477
+238,physician_NN,394,29051,"['physician_NN', 'physician_NNS', 'physician_NNP']",-6.204248385,11.36197021
+239,play_NN,355,26179,"['play_NN', 'play_NNS', 'play_NNP']",-6.204447155,11.51234681
+240,look_NN,356,26345,"['look_NN', 'look_NNS']",-6.2095081279999995,11.50828859
+241,link_NN,846,62648,"['link_NNS', 'link_NN', 'link_NNP']",-6.21046698,10.25950817
+243,b_NN,489,36352,"['b_NNP', 'b_NN', 'b_NNS']",-6.216056465,11.05033137
+245,regularly_RB,205,15600,['regularly_RB'],-6.249778309,12.30454193
+246,patient_NN,1418,108204,"['patient_NN', 'patient_NNS', 'patient_NNP']",-6.25375249,9.514380209
+249,father_NN,599,46060,"['father_NN', 'father_NNS', 'father_NNP']",-6.264814597999999,10.75760983
+250,description_NN,496,38156,"['description_NNS', 'description_NN', 'description_NNP', 'description_NNPS']",-6.265426007,11.02982572
+251,approach_VB,271,20854,"['approach_VBG', 'approach_VB', 'approach_VBD', 'approach_VBP', 'approach_VBN', 'approach_VBZ']",-6.265887471,11.90187298
+252,hop_VB,293,22584,"['hop_VBG', 'hop_VBZ', 'hop_VBD', 'hop_VBN', 'hop_VB', 'hop_VBP']",-6.268256559,11.78926517
+253,sheet_NN,259,19975,"['sheet_NNP', 'sheet_NN', 'sheet_NNS', 'sheet_NNPS']",-6.269099595,11.96721374
+254,do_VB,16379,1263400,"['do_VBD', 'do_VB', 'do_VBN', 'do_VBP', 'do_VBZ', 'do_VBG']",-6.269320389,5.984462369
+256,id_NN,152,11807,"['id_NN', 'id_NNP', 'id_NNS']",-6.279427308,12.73609451
+257,truly_RB,268,20819,['truly_RB'],-6.279523962000001,11.91793284
+261,friend_NN,983,76913,"['friend_NNS', 'friend_NN', 'friend_NNPS', 'friend_NNP']",-6.289892238999999,10.04297442
+262,god_NN,568,44643,"['god_NNP', 'god_NN', 'god_NNS']",-6.296399238999999,10.83427491
+263,audience_NN,456,35849,"['audience_NN', 'audience_NNS', 'audience_NNP']",-6.2967552410000005,11.15113201
+264,attach_VB,283,22280,"['attach_VBN', 'attach_VBP', 'attach_VBD', 'attach_VBG', 'attach_VB', 'attach_VBZ']",-6.298803369,11.83936378
+266,watch_VB,449,35494,"['watch_VBG', 'watch_VBZ', 'watch_VB', 'watch_VBN', 'watch_VBP', 'watch_VBD']",-6.304715913,11.17345039
+268,son_NN,397,31756,"['son_NN', 'son_NNS', 'son_NNP']",-6.321746384,11.35102683
+270,ring_NN,166,13292,"['ring_NNS', 'ring_NNP', 'ring_NN']",-6.323231146,12.60898259
+271,immediately_RB,467,37403,['immediately_RB'],-6.32358763,11.11674329
+272,witness_NN,296,23869,"['witness_NNS', 'witness_NN', 'witness_NNP']",-6.333397139,11.77456866
+273,article_NN,980,79041,"['article_NN', 'article_NNS', 'article_NNPS', 'article_NNP']",-6.33367564,10.04738409
+274,shift_NN,242,19535,"['shift_NNS', 'shift_NN', 'shift_NNP']",-6.334910398,12.06515879
+276,others_NN,1461,118588,['others_NNS'],-6.3428580420000005,9.471281563
+277,example_NN,2176,176656,"['example_NN', 'example_NNS', 'example_NNP']",-6.343120383,8.896559185
+278,gun_NN,213,17299,"['gun_NN', 'gun_NNS', 'gun_NNP']",-6.343691402,12.24931241
+279,many_JJ,5019,408899,['many_JJ'],-6.348200778,7.690837795
+281,enemy_NN,204,16640,"['enemy_NN', 'enemy_NNS', 'enemy_NNP']",-6.349942471,12.31159668
+283,enough_JJ,394,32278,['enough_JJ'],-6.35621175,11.36197021
+286,once_RB,1268,104838,['once_RB'],-6.369463181,9.675682996
+288,soul_NN,183,15153,"['soul_NNS', 'soul_NN', 'soul_NNP']",-6.3716159889999995,12.46832219
+289,brother_NN,296,24579,"['brother_NN', 'brother_NNS', 'brother_NNP', 'brother_NNPS']",-6.375685235,11.77456866
+290,today_NN,1331,110555,"['today_NN', 'today_NNP', 'today_NNS']",-6.376109893,9.60572717
+291,sister_NN,194,16119,"['sister_NNS', 'sister_NN', 'sister_NNP', 'sister_NNPS']",-6.376561781,12.38410918
+292,'s_VB,4598,382576,"[""'s_VBZ""]",-6.378596096,7.817231275
+293,progress_NN,505,42198,"['progress_NN', 'progress_NNP']",-6.384747425,11.00388245
+294,related_JJ,263,21998,['related_JJ'],-6.386165753999999,11.94510304
+295,discussion_NN,894,75015,"['discussion_NN', 'discussion_NNS', 'discussion_NNP', 'discussion_NNPS']",-6.3907604639999995,10.179891
+297,testify_VB,211,17785,"['testify_VBP', 'testify_VB', 'testify_VBD', 'testify_VBN', 'testify_VBZ', 'testify_VBG']",-6.397274165,12.26292284
+298,live_JJ,178,15038,['live_JJ'],-6.400591655,12.50828859
+300,probably_RB,688,58340,['probably_RB'],-6.405933011,10.55775727
+301,have_VB,39299,3349901,"['have_VBP', 'have_VB', 'have_VBG', 'have_VBZ', 'have_VBD', 'have_VBN']",-6.413482048,4.721817044
+302,command_NN,394,33613,"['command_NNP', 'command_NN', 'command_NNS', 'command_NNPS']",-6.414679871000001,11.36197021
+303,wrong_JJ,379,32378,['wrong_JJ'],-6.416672214,11.41796799
+304,prefer_VB,266,22733,"['prefer_VB', 'prefer_VBG', 'prefer_VBN', 'prefer_VBP', 'prefer_VBD', 'prefer_VBZ']",-6.417218029,11.92873959
+305,hope_NN,323,27620,"['hope_NN', 'hope_NNS', 'hope_NNP']",-6.418035344,11.64863167
+307,ship_NN,234,20024,"['ship_NN', 'ship_NNS', 'ship_NNP']",-6.419077856,12.11365731
+310,kind_NN,1007,86770,"['kind_NN', 'kind_NNS', 'kind_NNP']",-6.429060741,10.00817406
+311,growth_NN,989,85223,"['growth_NN', 'growth_NNP', 'growth_NNS']",-6.429128507000001,10.03419532
+312,display_NN,336,28965,"['display_NN', 'display_NNS', 'display_NNP', 'display_NNPS']",-6.429705622,11.5917046
+313,peter_NN,176,15211,"['peter_NNP', 'peter_NN']",-6.433395762999999,12.52459041
+315,men_NN,977,84503,"['men_NNS', 'men_NN', 'men_NNP']",-6.4345001879999995,10.05180727
+316,fly_VB,276,23882,"['fly_VB', 'fly_VBD', 'fly_VBG', 'fly_VBP', 'fly_VBZ', 'fly_VBN']",-6.435111582999999,11.87549757
+318,remember_VB,565,49137,"['remember_VB', 'remember_VBZ', 'remember_VBP', 'remember_VBD', 'remember_VBG', 'remember_VBN']",-6.442415101,10.84191497
+319,reason_NN,1210,105398,"['reason_NN', 'reason_NNS', 'reason_NNP']",-6.4446966329999995,9.743230694
+320,mother_NN,698,60847,"['mother_NNS', 'mother_NN', 'mother_NNP']",-6.445815287,10.536938800000001
+321,dog_NN,236,20609,"['dog_NNS', 'dog_NN', 'dog_NNP']",-6.448343834,12.10137898
+322,sometimes_RB,660,57773,['sometimes_RB'],-6.451785577000001,10.61769981
+323,lie_VB,307,26945,"['lie_VBP', 'lie_VBG', 'lie_VBZ', 'lie_VB', 'lie_VBD', 'lie_VBN']",-6.455635121,11.72192718
+324,change_NN,2031,178284,"['change_NNS', 'change_NN', 'change_NNP']",-6.455843185,8.996047502
+325,spot_NN,216,19022,"['spot_NNS', 'spot_NN', 'spot_NNP']",-6.460493819,12.22913452
+326,daughter_NN,250,22030,"['daughter_NN', 'daughter_NNS', 'daughter_NNP']",-6.46139759,12.01823774
+328,real_JJ,957,84721,['real_JJ'],-6.468056882999999,10.08164691
+330,hole_NN,189,16791,"['hole_NN', 'hole_NNS', 'hole_NNP']",-6.473158109,12.4217796
+331,soldier_NN,207,18399,"['soldier_NN', 'soldier_NNS']",-6.473852779,12.29053507
+333,danger_NN,212,18941,"['danger_NNS', 'danger_NNP', 'danger_NN']",-6.481304426,12.25610157
+334,advisor_NN,174,15601,"['advisor_NN', 'advisor_NNP', 'advisor_NNS']",-6.48640739,12.54107853
+335,mary_NN,151,13555,['mary_NNP'],-6.4881327529999995,12.74561729
+337,object_NN,706,63570,"['object_NNS', 'object_NNP', 'object_NN', 'object_NNPS']",-6.492534095,10.52049765
