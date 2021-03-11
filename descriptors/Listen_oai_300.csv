@@ -1,0 +1,301 @@
+,OlfN,TotalN,Tokens,OAI,OSI
+attentively_RB,163,348,['attentively_RB'],-1.094215342,9.244721329
+taru_NN,14,45,['taru_NNP'],-1.684498174,12.78609456
+intently_RB,128,444,['intently_RB'],-1.794415866,9.593449483
+stethoscope_NN,22,195,"['stethoscope_NN', 'stethoscope_NNS']",-3.147898695,12.13401786
+mp3s_NN,17,196,['mp3s_NNS'],-3.527247003,12.50598664
+note-taking_NN,15,187,['note-taking_NN'],-3.640003864,12.68655889
+headphone_NN,60,783,"['headphone_NNS', 'headphone_NN']",-3.705977902,10.68655889
+rapt_JJ,14,202,['rapt_JJ'],-3.850856561,12.78609456
+prozac_NN,21,337,['prozac_NNP'],-4.004287358,12.20113206
+podcasts_NN,24,386,"['podcasts_NNS', 'podcasts_NNP']",-4.007494537,12.00848698
+podcast_NN,22,365,"['podcast_NNP', 'podcast_NN']",-4.052321035,12.13401786
+talker_NN,14,241,"['talker_NNS', 'talker_NN']",-4.105534414,12.78609456
+audiotape_NN,23,414,"['audiotape_NNS', 'audiotape_NN']",-4.169925001,12.06988753
+empathetic_JJ,13,267,['empathetic_JJ'],-4.360256214,12.89300976
+sermon_NN,68,1462,"['sermon_NN', 'sermon_NNS']",-4.426264755,10.50598664
+assistive_JJ,40,891,['assistive_JJ'],-4.477353527,11.27152139
+preaching_NN,17,403,"['preaching_NNP', 'preaching_NN', 'preaching_NNS']",-4.567173187,12.50598664
+wnyc_NN,22,522,['wnyc_NNP'],-4.568474378,12.13401786
+respectfully_RB,42,1003,['respectfully_RB'],-4.577788468,11.20113206
+comprehension_NN,112,2795,"['comprehension_NN', 'comprehension_NNP']",-4.641277646,9.786094561
+patiently_RB,37,934,['patiently_RB'],-4.657825374,11.38399612
+nonverbal_JJ,15,388,['nonverbal_JJ'],-4.693022247,12.68655889
+speaking_NN,256,6835,['speaking_NN'],-4.738725622,8.593449483
+politely_RB,30,823,['politely_RB'],-4.777858025,11.68655889
+attentive_JJ,43,1416,['attentive_JJ'],-5.041340795,11.16718473
+cim_NN,14,470,['cim_NNP'],-5.069162025,12.78609456
+npr_NN,24,831,['npr_NNP'],-5.113742166,12.00848698
+soothing_JJ,29,1016,['soothing_JJ'],-5.130703692,11.73546849
+xm_NN,12,425,['xm_NNP'],-5.14635653,13.00848698
+mp3_JJ,20,728,['mp3_JJ'],-5.185866545,12.27152139
+dhamma_NN,102,3731,"['dhamma_NNP', 'dhamma_NN']",-5.192921303,9.921024141
+passively_RB,13,562,['passively_RB'],-5.433986602,12.89300976
+pronunciation_NN,21,922,"['pronunciation_NN', 'pronunciation_NNP']",-5.456305518,12.20113206
+ipod_NN,28,1271,"['ipod_NNP', 'ipod_NN', 'ipod_NNS']",-5.504393393,11.78609456
+carefully_RB,427,19462,['carefully_RB'],-5.510280095,7.855357223
+chatter_NN,12,567,"['chatter_NN', 'chatter_NNP']",-5.562242424,13.00848698
+music_NN,1775,85202,"['music_NN', 'music_NNP', 'music_NNS']",-5.584996366,5.799846174
+radio_NN,649,31532,"['radio_NN', 'radio_NNP', 'radio_NNS']",-5.602454391,7.251374815
+whisper_NN,15,770,"['whisper_NNS', 'whisper_NN']",-5.68182404,12.68655889
+discerning_JJ,14,731,['discerning_JJ'],-5.706372674,12.78609456
+empathy_NN,22,1161,['empathy_NN'],-5.721720638,12.13401786
+mozart_NN,25,1417,"['mozart_NNP', 'mozart_NN']",-5.824767853,11.94959329
+socket_NN,43,2486,"['socket_NN', 'socket_NNS']",-5.853345826,11.16718473
+port_JJ,44,2684,['port_JJ'],-5.930737338,11.13401786
+daemon_NN,17,1093,"['daemon_NN', 'daemon_NNS']",-6.006614844,12.50598664
+eagerly_RB,24,1551,['eagerly_RB'],-6.01402047,12.00848698
+udp_NN,14,910,"['udp_NNP', 'udp_NN']",-6.022367813,12.78609456
+cassette_NN,21,1416,"['cassette_NN', 'cassette_NNS']",-6.075288127,12.20113206
+tape_NN,223,15339,"['tape_NNS', 'tape_NN', 'tape_NNP']",-6.104016911,8.792549583
+dharma_NN,16,1112,"['dharma_NNP', 'dharma_NN']",-6.118941073,12.59344948
+beethoven_NN,14,975,['beethoven_NNP'],-6.121903487,12.78609456
+dispatcher_NN,13,908,"['dispatcher_NN', 'dispatcher_NNS', 'dispatcher_NNP']",-6.126108769,12.89300976
+viewing_NN,29,2076,"['viewing_NN', 'viewing_NNS']",-6.161609733,11.73546849
+heartbeat_NN,15,1090,"['heartbeat_NN', 'heartbeat_NNS']",-6.183221824,12.68655889
+tcp\/ip_NN,14,1032,['tcp\\/ip_NNP'],-6.203872333,12.78609456
+silently_RB,20,1475,['silently_RB'],-6.204571144,12.27152139
+quietly_RB,53,3915,['quietly_RB'],-6.206876138,10.86552903
+singing_NN,27,2052,['singing_NN'],-6.247927513,11.83856198
+pink_NN,14,1076,['pink_NNP'],-6.26410744,12.78609456
+recording_NN,183,15072,"['recording_NNS', 'recording_NN', 'recording_NNP', 'recording_NNPS']",-6.363883411,9.077749645
+passive_NN,12,1001,['passive_NN'],-6.382263758,13.00848698
+pause_VB,31,2630,"['pause_VB', 'pause_VBG', 'pause_VBD', 'pause_VBZ', 'pause_VBP']",-6.406650774,11.63925317
+heed_VB,12,1039,"['heed_VB', 'heed_VBD']",-6.436017438,13.00848698
+mp3_NN,14,1225,"['mp3_NNP', 'mp3_NN']",-6.451211112,12.78609456
+audio_JJ,105,9344,['audio_JJ'],-6.475579041,9.879203965
+ear_NN,184,16439,"['ear_NN', 'ear_NNS']",-6.481272965,9.069887527
+watch_VB,397,35494,"['watch_VBG', 'watch_VBP', 'watch_VBN', 'watch_VB', 'watch_VBD', 'watch_VBZ']",-6.482292351,7.960454286
+rap_NN,21,1879,['rap_NN'],-6.483431929,12.20113206
+song_NN,318,28506,"['song_NN', 'song_NNS', 'song_NNPS']",-6.486095037,8.280566528
+sniff_VB,12,1079,"['sniff_VBG', 'sniff_VBD', 'sniff_VB', 'sniff_VBZ']",-6.490516649,13.00848698
+soundtrack_NN,18,1625,"['soundtrack_NNS', 'soundtrack_NN']",-6.496299001,12.42352448
+album_NN,180,16420,"['album_NN', 'album_NNS', 'album_NNPS']",-6.51131341,9.101596387
+jazz_NN,89,8232,['jazz_NN'],-6.531293836,10.11771605
+viewer_NN,101,9346,"['viewer_NNS', 'viewer_NN']",-6.531921839,9.935238
+voice_VB,27,2532,"['voice_VB', 'voice_VBP', 'voice_VBN', 'voice_VBG']",-6.551174187,11.83856198
+cd_NN,157,14776,"['cd_NN', 'cd_NNP', 'cd_NNS', 'cd_NNPS']",-6.556347402,9.298828734
+rock_VB,16,1508,"['rock_VB', 'rock_VBG', 'rock_VBP']",-6.558420713,12.59344948
+floyd_NN,13,1265,"['floyd_NNP', 'floyd_NN']",-6.604481951,12.89300976
+conversation_NN,209,20799,"['conversation_NNS', 'conversation_NN']",-6.636867414,8.886090351
+meditate_VB,17,1717,"['meditate_VB', 'meditate_VBG', 'meditate_VBP', 'meditate_VBZ', 'meditate_VBD']",-6.658211483,12.50598664
+fm_NN,18,1819,"['fm_NNP', 'fm_NN']",-6.659004826,12.42352448
+discourse_NN,74,7488,"['discourse_NNS', 'discourse_NN']",-6.660911354,10.38399612
+willingness_NN,64,6503,['willingness_NN'],-6.666889708,10.59344948
+tune_NN,52,5293,"['tune_NNS', 'tune_NN']",-6.66943022,10.89300976
+reading_NN,306,31174,"['reading_NN', 'reading_NNS']",-6.670667819,8.33606164
+headset_NN,14,1444,"['headset_NN', 'headset_NNS']",-6.688500105,12.78609456
+respectful_JJ,18,1866,['respectful_JJ'],-6.695808269,12.42352448
+port_NN,193,20335,"['port_NN', 'port_NNS', 'port_NNP']",-6.719220333,9.000992446
+lecture_VB,103,10987,"['lecture_VBG', 'lecture_VBZ', 'lecture_VBP', 'lecture_VB', 'lecture_VBD', 'lecture_VBN']",-6.737009365,9.906948956
+lyric_NN,36,3841,"['lyric_NNS', 'lyric_NN']",-6.737341247,11.42352448
+willing_JJ,213,22873,['willing_JJ'],-6.74664836,8.858739863
+willingly_RB,12,1296,['willingly_RB'],-6.754887502,13.00848698
+receptive_JJ,12,1348,['receptive_JJ'],-6.81164228,13.00848698
+stereo_NN,16,1824,['stereo_NN'],-6.832890014,12.59344948
+intuition_NN,13,1485,"['intuition_NN', 'intuition_NNP']",-6.835807498,12.89300976
+bbc_NN,18,2060,['bbc_NNP'],-6.838503621,12.42352448
+speak_VB,563,67928,"['speak_VB', 'speak_VBP', 'speak_VBG', 'speak_VBZ', 'speak_VBD', 'speak_VBN']",-6.914727645,7.456458371
+vocabulary_NN,37,4495,"['vocabulary_NN', 'vocabulary_NNP']",-6.924652035,11.38399612
+sound_NN,233,28441,"['sound_NN', 'sound_NNS', 'sound_NNP']",-6.931498427,8.729263338
+written_JJ,16,1966,['written_JJ'],-6.941047606,12.59344948
+broadcast_NN,75,9473,"['broadcast_NNS', 'broadcast_NN']",-6.980786979,10.36463079
+storytelling_NN,12,1535,"['storytelling_NN', 'storytelling_NNP']",-6.99906044,13.00848698
+reflective_JJ,21,2707,['reflective_JJ'],-7.010161749,12.20113206
+sit_VB,344,44872,"['sit_VBD', 'sit_VBG', 'sit_VBP', 'sit_VB', 'sit_VBN', 'sit_VBZ']",-7.027263113,8.167184728
+distract_VB,20,2654,"['distract_VBZ', 'distract_VBG', 'distract_VB', 'distract_VBP', 'distract_VBN']",-7.05202456,12.27152139
+silence_NN,52,6920,"['silence_NN', 'silence_NNS']",-7.056116604,10.89300976
+unwilling_JJ,21,2816,['unwilling_JJ'],-7.067114196,12.20113206
+classical_JJ,102,13683,['classical_JJ'],-7.067671614,9.921024141
+grammar_NN,31,4185,"['grammar_NN', 'grammar_NNP']",-7.076815597,11.63925317
+porch_NN,14,1927,"['porch_NN', 'porch_NNS']",-7.104785934,12.78609456
+tale_NN,57,8037,"['tale_NNS', 'tale_NN']",-7.139551352,10.76055947
+read_VB,700,99383,"['read_VB', 'read_VBG', 'read_VBP', 'read_VBD', 'read_VBZ', 'read_VBN']",-7.14950036,7.142238371
+voice_NN,351,50142,"['voice_NNS', 'voice_NN', 'voice_NNP']",-7.158404701,8.138122263
+directive_NN,55,7869,"['directive_NNS', 'directive_NN']",-7.160604879,10.81208977
+talk_NN,204,29345,"['talk_NN', 'talk_NNS', 'talk_NNP']",-7.168401746,8.921024141
+awake_RB,13,1877,['awake_RB'],-7.173773217,12.89300976
+sympathetic_JJ,17,2490,['sympathetic_JJ'],-7.194467186,12.50598664
+sing_VB,89,13090,"['sing_VBG', 'sing_VB', 'sing_VBN', 'sing_VBP', 'sing_VBD', 'sing_VBZ']",-7.200444046,10.11771605
+dance_VB,29,4266,"['dance_VB', 'dance_VBN', 'dance_VBD', 'dance_VBG']",-7.200687255,11.73546849
+instinct_NN,20,2951,"['instinct_NNS', 'instinct_NN']",-7.205060111,12.27152139
+audio_NN,46,6815,"['audio_NN', 'audio_NNP']",-7.210935986,11.06988753
+tcp_NN,21,3130,"['tcp_NNP', 'tcp_NN']",-7.219629519,12.20113206
+tonight_RB,13,1974,['tonight_RB'],-7.246466556,12.89300976
+skill_NN,597,91446,"['skill_NNS', 'skill_NN']",-7.259045324,7.371862362
+http_NN,19,2913,"['http_NNP', 'http_NN', 'http_NNS']",-7.260362473,12.34552197
+musician_NN,78,12056,"['musician_NN', 'musician_NNS', 'musician_NNPS']",-7.272061483,10.30804726
+closely_RB,154,23974,['closely_RB'],-7.282396478,9.326662942
+silent_JJ,40,6249,['silent_JJ'],-7.28748153,11.27152139
+nobody_NN,55,8641,['nobody_NN'],-7.295622852,10.81208977
+speaker_NN,157,24828,"['speaker_NNS', 'speaker_NN', 'speaker_NNP']",-7.305059682,9.298828734
+caller_NN,32,5096,"['caller_NNS', 'caller_NN']",-7.315149562,11.59344948
+dial_NN,14,2249,"['dial_NN', 'dial_NNS']",-7.327713024,12.78609456
+hey_NN,15,2452,"['hey_NN', 'hey_NNP']",-7.352852668,12.68655889
+passive_JJ,25,4106,['passive_JJ'],-7.359661722,11.94959329
+vocal_NN,14,2325,['vocal_NNS'],-7.375660079,12.78609456
+e-mail_VB,16,2692,"['e-mail_VB', 'e-mail_VBN']",-7.394462695,12.59344948
+patience_NN,23,3903,['patience_NN'],-7.406805791,12.06988753
+echo_VB,17,2940,"['echo_VB', 'echo_VBP', 'echo_VBG']",-7.434137598,12.50598664
+casual_JJ,34,5931,['casual_JJ'],-7.446596815,11.50598664
+repertoire_NN,12,2096,['repertoire_NN'],-7.448460501,13.00848698
+watch_NN,54,9568,"['watch_NN', 'watch_NNS', 'watch_NNP']",-7.469114172,10.83856198
+talk_VB,387,68734,"['talk_VBG', 'talk_VBP', 'talk_VBN', 'talk_VBD', 'talk_VB', 'talk_VBZ']",-7.472546543,7.997259727
+delight_NN,15,2699,['delight_NN'],-7.491318666,12.68655889
+melody_NN,15,2741,"['melody_NNS', 'melody_NN']",-7.513596017,12.68655889
+cue_NN,17,3179,"['cue_NNS', 'cue_NN']",-7.54689446,12.50598664
+tune_VB,24,4497,"['tune_VB', 'tune_VBN', 'tune_VBP', 'tune_VBG', 'tune_VBD']",-7.549784668,12.00848698
+proficiency_NN,24,4517,"['proficiency_NN', 'proficiency_NNP']",-7.556186698,12.00848698
+couch_NN,12,2267,"['couch_NN', 'couch_NNS']",-7.561606175,13.00848698
+preach_VB,14,2726,"['preach_VBG', 'preach_VBD', 'preach_VBN', 'preach_VB', 'preach_VBZ']",-7.605214925,12.78609456
+favorite_JJ,71,13827,['favorite_JJ'],-7.605453434,10.44370236
+singer_NN,30,5908,"['singer_NNS', 'singer_NN']",-7.621563515,11.68655889
+configure_VB,54,10674,"['configure_VBG', 'configure_VBN', 'configure_VB', 'configure_VBZ', 'configure_VBD', 'configure_VBP']",-7.626925794,10.83856198
+guitar_NN,37,7335,"['guitar_NN', 'guitar_NNS']",-7.631127885,11.38399612
+arabic_NN,14,2777,['arabic_NNP'],-7.63195654,12.78609456
+anybody_NN,29,5786,['anybody_NN'],-7.640369613,11.73546849
+lecture_NN,59,11805,"['lecture_NN', 'lecture_NNP', 'lecture_NNS']",-7.644467372,10.71080643
+anyone_NN,227,45556,['anyone_NN'],-7.64880497,8.766900996
+loyal_JJ,14,2860,['loyal_JJ'],-7.67444451,12.78609456
+view_VB,174,35863,"['view_VB', 'view_VBG', 'view_VBN', 'view_VBP', 'view_VBZ']",-7.687265061,9.150505987
+quiet_JJ,50,10352,"['quiet_JJ', 'quiet_JJS']",-7.693765712,10.94959329
+constituent_NN,17,3533,['constituent_NNS'],-7.699215193,12.50598664
+rick_NN,22,4642,['rick_NNP'],-7.721099189,12.13401786
+openness_NN,12,2538,['openness_NN'],-7.724513853,13.00848698
+disc_NN,26,5562,"['disc_NN', 'disc_NNS']",-7.740948311,11.89300976
+speech_NN,144,30821,"['speech_NN', 'speech_NNS']",-7.74170105,9.423524482
+breathing_NN,22,4719,"['breathing_NN', 'breathing_NNP']",-7.744833837,12.13401786
+actively_RB,59,12682,['actively_RB'],-7.747851612,10.71080643
+pleasure_NN,55,11866,"['pleasure_NN', 'pleasure_NNS']",-7.753186354,10.81208977
+advice_NN,128,27674,['advice_NN'],-7.756243566,9.593449483
+stream_VB,14,3056,"['stream_VBG', 'stream_VBN']",-7.770073906,12.78609456
+subjective_JJ,18,4025,['subjective_JJ'],-7.804848066,12.42352448
+audience_NN,156,35630,"['audience_NN', 'audience_NNS']",-7.835402644,9.308047264
+symphony_NN,24,5497,"['symphony_NNP', 'symphony_NN', 'symphony_NNS']",-7.839466263,12.00848698
+respect_VB,54,12470,"['respect_VBN', 'respect_VBG', 'respect_VB', 'respect_VBP', 'respect_VBD', 'respect_VBZ']",-7.851286343,10.83856198
+opera_NN,33,7648,"['opera_NN', 'opera_NNP', 'opera_NNS']",-7.856472689,11.54905536
+verbal_JJ,22,5105,['verbal_JJ'],-7.858263627,12.13401786
+story_NN,369,85783,"['story_NNS', 'story_NN', 'story_NNP']",-7.860927144,8.065972477
+microphone_NN,12,2795,"['microphone_NNS', 'microphone_NN']",-7.863670067,13.00848698
+pray_VB,23,5366,"['pray_VBD', 'pray_VBG', 'pray_VB', 'pray_VBP', 'pray_VBZ']",-7.866069383,12.06988753
+classmate_NN,14,3272,"['classmate_NNS', 'classmate_NN']",-7.868602111,12.78609456
+loud_JJ,22,5188,"['loud_JJ', 'loud_JJS']",-7.881531146,12.13401786
+eager_JJ,23,5480,['eager_JJ'],-7.896398222,12.06988753
+pop_NN,32,7788,"['pop_NN', 'pop_NNP']",-7.927037169,11.59344948
+briefing_NN,16,3919,"['briefing_NN', 'briefing_NNS']",-7.936269858,12.59344948
+repeat_VB,75,18372,"['repeat_VBN', 'repeat_VBD', 'repeat_VB', 'repeat_VBP', 'repeat_VBG']",-7.936402378,10.36463079
+reader_NN,120,29479,"['reader_NNS', 'reader_NN', 'reader_NNP']",-7.940509369,9.686558887
+oral_JJ,76,18719,['oral_JJ'],-7.944288232,10.34552197
+piano_NN,21,5186,"['piano_NN', 'piano_NNP']",-7.948089068,12.20113206
+feedback_NN,65,16161,"['feedback_NN', 'feedback_NNS']",-7.957861038,10.57108167
+enjoyment_NN,14,3482,"['enjoyment_NN', 'enjoyment_NNS']",-7.958345566,12.78609456
+dancing_NN,12,3008,['dancing_NN'],-7.969626351,13.00848698
+viewpoint_NN,18,4557,"['viewpoint_NN', 'viewpoint_NNS']",-7.983943654,12.42352448
+laugh_NN,18,4563,"['laugh_NN', 'laugh_NNS']",-7.985841937,12.42352448
+tone_NN,40,10207,"['tone_NN', 'tone_NNS', 'tone_NNPS', 'tone_NNP']",-7.995343182,11.27152139
+pleasant_JJ,24,6219,['pleasant_JJ'],-8.017504401,12.00848698
+hear_VB,288,74975,"['hear_VBP', 'hear_VBG', 'hear_VB', 'hear_VBD', 'hear_VBZ', 'hear_VBN']",-8.024196995,8.423524482
+acoustic_JJ,12,3156,['acoustic_JJ'],-8.038918989,13.00848698
+laugh_VB,20,5315,"['laugh_VBZ', 'laugh_VBD', 'laugh_VBG']",-8.053925882,12.27152139
+device_NN,225,60243,"['device_NNS', 'device_NN', 'device_NNPS', 'device_NNP']",-8.064724804,8.779668292
+performer_NN,23,6160,"['performer_NN', 'performer_NNS']",-8.06515268,12.06988753
+incoming_JJ,24,6429,['incoming_JJ'],-8.065416135,12.00848698
+solo_NN,19,5118,"['solo_NN', 'solo_NNS', 'solo_NNP']",-8.073436919,12.34552197
+relax_VB,33,8923,"['relax_VBG', 'relax_VB', 'relax_VBN', 'relax_VBD']",-8.078919005,11.54905536
+respond_VB,153,41879,"['respond_VBZ', 'respond_VB', 'respond_VBG', 'respond_VBP', 'respond_VBD']",-8.09655153,9.33606164
+lean_VB,13,3580,"['lean_VBG', 'lean_VBD', 'lean_VBZ', 'lean_VB']",-8.105304154,12.89300976
+mood_NN,23,6358,"['mood_NN', 'mood_NNS']",-8.110795345,12.06988753
+cry_VB,32,8863,"['cry_VBZ', 'cry_VBG', 'cry_VBP', 'cry_VB', 'cry_VBD']",-8.113579398,11.59344948
+suggestion_NN,70,19422,"['suggestion_NNS', 'suggestion_NN']",-8.116121134,10.46416647
+induce_VB,12,3426,"['induce_VBZ', 'induce_VB']",-8.157346935,13.00848698
+buddha_NN,51,14649,['buddha_NNP'],-8.166089221,10.92102414
+peer_NN,29,8344,"['peer_NNS', 'peer_NNP']",-8.168542447,11.73546849
+faith_NN,86,24840,"['faith_NN', 'faith_NNP']",-8.174112798,10.16718473
+beat_NN,14,4050,"['beat_NN', 'beat_NNS']",-8.176351271,12.78609456
+playing_NN,15,4341,['playing_NN'],-8.176921112,12.68655889
+chat_VB,24,6978,"['chat_VB', 'chat_VBP', 'chat_VBG', 'chat_VBD', 'chat_VBZ']",-8.183635381,12.00848698
+musical_JJ,48,14039,['musical_JJ'],-8.192190055,11.00848698
+remind_VB,51,15021,"['remind_VBN', 'remind_VB', 'remind_VBZ', 'remind_VBP', 'remind_VBG', 'remind_VBD']",-8.202267899,10.92102414
+breath_NN,27,7962,"['breath_NN', 'breath_NNS']",-8.204027654,11.83856198
+station_NN,155,46072,"['station_NNS', 'station_NN', 'station_NNP', 'station_NNPS']",-8.215478201,9.317325078
+enjoy_VB,155,46202,"['enjoy_VBP', 'enjoy_VB', 'enjoy_VBG', 'enjoy_VBD', 'enjoy_VBZ', 'enjoy_VBN']",-8.219543279,9.317325078
+command_VB,14,4188,"['command_VBZ', 'command_VBP', 'command_VBD', 'command_VBG']",-8.224690805,12.78609456
+worth_JJ,61,18263,['worth_JJ'],-8.225898813,10.66271215
+live_JJ,50,15038,['live_JJ'],-8.232468896,10.94959329
+everybody_NN,33,9945,['everybody_NN'],-8.235361536,11.54905536
+noise_NN,48,14635,"['noise_NNS', 'noise_NN']",-8.252172625,11.00848698
+someone_NN,171,52973,['someone_NN'],-8.275117079,9.175596968
+tonight_NN,12,3756,"['tonight_NN', 'tonight_NNP']",-8.290018847,13.00848698
+active_JJ,144,45103,['active_JJ'],-8.291010775,9.423524482
+vocal_JJ,15,4735,['vocal_JJ'],-8.302258115,12.68655889
+pretend_VB,12,3801,"['pretend_VBD', 'pretend_VBN', 'pretend_VB', 'pretend_VBG', 'pretend_VBZ']",-8.307200809,13.00848698
+wise_JJ,24,7645,"['wise_JJ', 'wise_JJR']",-8.315338286,12.00848698
+pitch_NN,15,4797,"['pitch_NNS', 'pitch_NN', 'pitch_NNP']",-8.321026129,12.68655889
+confuse_VB,15,4864,"['confuse_VBN', 'confuse_VB', 'confuse_VBP']",-8.341036918,12.68655889
+sound_VB,59,19204,"['sound_VB', 'sound_VBZ', 'sound_VBP', 'sound_VBG', 'sound_VBD']",-8.346476171,10.71080643
+stop_VB,164,53617,"['stop_VBP', 'stop_VBD', 'stop_VB', 'stop_VBG', 'stop_VBZ', 'stop_VBN']",-8.352850874,9.235897478
+refuse_VB,80,26264,"['refuse_VBZ', 'refuse_VBN', 'refuse_VB', 'refuse_VBP', 'refuse_VBD', 'refuse_VBG']",-8.35887094,10.27152139
+folk_NN,48,15799,"['folk_NNS', 'folk_NN']",-8.362583125,11.00848698
+commentary_NN,17,5734,"['commentary_NN', 'commentary_NNS', 'commentary_NNP']",-8.397863348,12.50598664
+presentation_NN,117,39671,"['presentation_NNS', 'presentation_NN']",-8.405432424,9.723084763
+anymore_RB,15,5119,['anymore_RB'],-8.414755695,12.68655889
+tap_VB,23,7883,"['tap_VBG', 'tap_VBN', 'tap_VB', 'tap_VBP']",-8.420967103,12.06988753
+clip_NN,14,4803,"['clip_NNS', 'clip_NN']",-8.422365171,12.78609456
+connection_NN,149,51144,"['connection_NNS', 'connection_NN']",-8.423108858,9.374280963
+reply_VB,22,7572,"['reply_VBD', 'reply_VB', 'reply_VBZ', 'reply_VBG']",-8.427027077,12.13401786
+critic_NN,36,12448,"['critic_NNS', 'critic_NN']",-8.433701344,11.42352448
+message_NN,210,72796,"['message_NN', 'message_NNS']",-8.437326041,8.879203965
+smile_NN,15,5223,"['smile_NN', 'smile_NNP', 'smile_NNS']",-8.443772393,12.68655889
+habit_NN,35,12338,"['habit_NNS', 'habit_NN']",-8.461537914,11.46416647
+lend_VB,17,6038,"['lend_VB', 'lend_VBP', 'lend_VBZ', 'lend_VBD', 'lend_VBG']",-8.4723922,12.50598664
+careful_JJ,41,14585,['careful_JJ'],-8.474645761,11.23589748
+dialogue_NN,37,13317,"['dialogue_NN', 'dialogue_NNS']",-8.491528128,11.38399612
+prayer_NN,27,9846,"['prayer_NN', 'prayer_NNS', 'prayer_NNP']",-8.510434522,11.83856198
+write_VB,517,190387,"['write_VBN', 'write_VBG', 'write_VBD', 'write_VB', 'write_VBP', 'write_VBZ']",-8.524554976,7.579429013
+wo_MD,68,25043,['wo_MD'],-8.524656937,10.50598664
+crowd_NN,33,12154,"['crowd_NNS', 'crowd_NN']",-8.524749457,11.54905536
+enthusiastic_JJ,12,4422,['enthusiastic_JJ'],-8.525520809,13.00848698
+call_NN,168,61929,"['call_NN', 'call_NNS']",-8.526010107,9.20113206
+band_NN,80,29507,"['band_NN', 'band_NNS', 'band_NNP']",-8.526841533,10.27152139
+smile_VB,14,5203,"['smile_VBZ', 'smile_VBG', 'smile_VBD', 'smile_VB']",-8.53777307,12.78609456
+download_VB,41,15242,"['download_VB', 'download_VBG', 'download_VBD', 'download_VBP', 'download_VBN']",-8.538212595,11.23589748
+composer_NN,18,6698,"['composer_NN', 'composer_NNS']",-8.539589659,12.42352448
+while_NN,31,11563,['while_NN'],-8.54303182,11.63925317
+emotion_NN,26,9705,"['emotion_NNS', 'emotion_NN']",-8.544072779,11.89300976
+track_NN,79,29594,"['track_NNS', 'track_NN']",-8.549236339,10.28966873
+remark_NN,17,6403,['remark_NNS'],-8.557069453,12.50598664
+learn_VB,407,153392,"['learn_VBN', 'learn_VB', 'learn_VBG', 'learn_VBP', 'learn_VBD', 'learn_VBZ']",-8.557978733,7.924564499
+session_NN,148,56306,"['session_NNS', 'session_NN', 'session_NNP']",-8.571547679,9.383996117
+compel_VB,12,4614,"['compel_VBN', 'compel_VB', 'compel_VBZ']",-8.586839788,13.00848698
+really_RB,273,105443,['really_RB'],-8.593346656,8.500692342
+inner_JJ,26,10206,['inner_JJ'],-8.616690208,11.89300976
+critically_RB,14,5502,['critically_RB'],-8.618385502,12.78609456
+arab_NN,12,4721,"['arab_NNP', 'arab_NNPS']",-8.619914267,13.00848698
+frustration_NN,13,5115,"['frustration_NN', 'frustration_NNS']",-8.620078806,12.89300976
+post_NN,76,29964,"['post_NN', 'post_NNS', 'post_NNP']",-8.623015093,10.34552197
+kid_NN,94,37217,"['kid_NNS', 'kid_NN', 'kid_NNPS', 'kid_NNP']",-8.629085295,10.03886063
+communicate_VB,65,25782,"['communicate_VBG', 'communicate_VB', 'communicate_VBP', 'communicate_VBN', 'communicate_VBZ', 'communicate_VBD']",-8.631708749,10.57108167
+roll_NN,14,5562,['roll_NN'],-8.634033107,12.78609456
+oracle_NN,38,15110,"['oracle_NNP', 'oracle_NN']",-8.635288527,11.34552197
+avid_JJ,12,4849,['avid_JJ'],-8.658509038,13.00848698
+attendee_NN,12,4857,['attendee_NNS'],-8.66088727,13.00848698
+legislator_NN,12,4866,['legislator_NNS'],-8.663558104,13.00848698
+criticism_NN,27,10955,"['criticism_NN', 'criticism_NNS']",-8.664414362,11.83856198
+heart_NN,144,58459,"['heart_NNS', 'heart_NN', 'heart_NNP']",-8.665212529,9.423524482
+care_VB,62,25231,"['care_VBN', 'care_VB', 'care_VBG', 'care_VBP', 'care_VBZ', 'care_VBD']",-8.668713456,10.63925317
+monk_NN,21,8575,"['monk_NN', 'monk_NNS', 'monk_NNP']",-8.673603533,12.20113206
+attention_NN,132,54297,"['attention_NN', 'attention_NNS']",-8.684190749,9.549055364
+persuade_VB,16,6582,"['persuade_VB', 'persuade_VBD', 'persuade_VBG', 'persuade_VBN', 'persuade_VBZ']",-8.684310311,12.59344948
+interact_VB,29,11943,"['interact_VB', 'interact_VBG', 'interact_VBP', 'interact_VBN', 'interact_VBD']",-8.685896662,11.73546849
+breathe_VB,12,4943,"['breathe_VB', 'breathe_VBZ', 'breathe_VBP', 'breathe_VBG', 'breathe_VBN']",-8.68620869,13.00848698
+receiver_NN,17,7007,"['receiver_NNS', 'receiver_NN', 'receiver_NNP', 'receiver_NNPS']",-8.68711834,12.50598664
+wisdom_NN,25,10315,['wisdom_NN'],-8.688600011,11.94959329
+rhythm_NN,13,5393,"['rhythm_NNS', 'rhythm_NN']",-8.6964326,12.89300976
+urge_VB,39,16252,"['urge_VBP', 'urge_VBZ', 'urge_VBG', 'urge_VBD', 'urge_VB', 'urge_VBN']",-8.70292743,11.30804726
+word_NN,249,103898,"['word_NNS', 'word_NN', 'word_NNP']",-8.704806426,8.633447551
+record_VB,75,31302,"['record_VBG', 'record_VBN', 'record_VB', 'record_VBD']",-8.705148528,10.36463079
+thinking_NN,36,15064,['thinking_NN'],-8.708892283,11.42352448
+mind_VB,13,5485,"['mind_VB', 'mind_VBD']",-8.720836187,12.89300976
+repeatedly_RB,18,7636,['repeatedly_RB'],-8.728676386,12.42352448
+judge_VB,25,10667,"['judge_VBG', 'judge_VB', 'judge_VBN', 'judge_VBP']",-8.737010678,11.94959329
+somebody_NN,17,7259,['somebody_NN'],-8.73809226,12.50598664

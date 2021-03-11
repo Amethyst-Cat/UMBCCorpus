@@ -1,0 +1,301 @@
+,OlfN,TotalN,Tokens,OAI,OSI
+acrid_JJ,27,114,['acrid_JJ'],-2.078002512,9.397872667
+musty_JJ,43,233,['musty_JJ'],-2.43792139,8.726495414
+fishy_JJ,27,177,['fishy_JJ'],-2.712718048,9.397872667
+pungent_JJ,39,396,['pungent_JJ'],-3.343954401,8.86735795
+putrid_JJ,10,108,['putrid_JJ'],-3.432959407,10.83083207
+fetid_JJ,9,102,['fetid_JJ'],-3.502500341,10.98283517
+waft_VB,27,325,"['waft_VBN', 'waft_VBZ', 'waft_VBG', 'waft_VBP', 'waft_VBD', 'waft_VB']",-3.589408406,9.397872667
+cologne_NN,8,110,['cologne_NN'],-3.781359714,11.15276017
+tasting_NN,82,1213,"['tasting_NN', 'tasting_NNP']",-3.886811831,7.795208164
+fruity_NN,10,168,['fruity_NN'],-4.070389328,10.83083207
+cognizable_JJ,9,163,['cognizable_JJ'],-4.178803153,10.98283517
+odour_NN,19,373,"['odour_NN', 'odour_NNS']",-4.295104307,9.904832655
+rotten_JJ,42,849,['rotten_JJ'],-4.337303321,8.760442746
+gunpowder_NN,13,275,['gunpowder_NN'],-4.40284809,10.45232045
+foul_JJ,73,1550,"['foul_JJ', 'foul_JJS']",-4.408227941,7.96293561
+rot_VB,25,547,['rot_VBG'],-4.451540833,9.508903979
+tactile_JJ,33,779,['tactile_JJ'],-4.561085399,9.108366049
+taste_VB,116,2821,"['taste_VBD', 'taste_VB', 'taste_VBZ', 'taste_VBP', 'taste_VBN']",-4.604009955,7.294779174
+taste_NN,427,10719,"['taste_NN', 'taste_NNS']",-4.64979044,5.414667909
+burnt_JJ,24,676,['burnt_JJ'],-4.815916936,9.567797668
+stench_NN,14,401,['stench_NN'],-4.840103504,10.34540525
+anhydrous_JJ,13,383,['anhydrous_JJ'],-4.880760864,10.45232045
+odor_NN,106,3329,"['odor_NNS', 'odor_NN']",-4.972952701,7.424839714
+aroma_NN,31,977,"['aroma_NN', 'aroma_NNS']",-4.978018442,9.198563858
+incense_NN,20,633,['incense_NN'],-4.984133595,9.830832074
+jasmine_NN,8,266,"['jasmine_NN', 'jasmine_NNP']",-5.055282436,11.15276017
+nostril_NN,16,591,['nostril_NNS'],-5.20701432,10.15276017
+scent_NN,40,1511,"['scent_NN', 'scent_NNS']",-5.23935985,8.830832074
+teen_NN,13,492,['teen_NNP'],-5.242074787,10.45232045
+quigley_NN,8,309,['quigley_NNP'],-5.271463028,11.15276017
+perfume_NN,30,1215,"['perfume_NN', 'perfume_NNS']",-5.339850003,9.245869573
+stale_JJ,18,742,['stale_JJ'],-5.365350375,9.982835167
+ether_NN,25,1040,['ether_NN'],-5.378511623,9.508903979
+smoky_JJ,10,422,['smoky_JJ'],-5.399171094,10.83083207
+earthy_JJ,11,475,['earthy_JJ'],-5.432352085,10.69332855
+mildew_NN,12,521,['mildew_NN'],-5.440177062,10.56779767
+rose_NN,49,2147,"['rose_NNS', 'rose_NN']",-5.453396632,8.538050325
+fragrant_JJ,16,720,['fragrant_JJ'],-5.491853096,10.15276017
+sweet_JJ,155,7186,"['sweet_JJ', 'sweet_JJS', 'sweet_JJR']",-5.534848815,6.876635764
+cinnamon_NN,9,420,['cinnamon_NN'],-5.544320516,10.98283517
+freshly_RB,24,1142,['freshly_RB'],-5.572384435,9.567797668
+ammonia_NN,33,1592,['ammonia_NN'],-5.592230501,9.108366049
+sour_JJ,21,1043,['sour_JJ'],-5.63420602,9.760442746
+agreeable_JJ,21,1071,['agreeable_JJ'],-5.672425342,9.760442746
+fragrance_NN,22,1158,"['fragrance_NN', 'fragrance_NNS', 'fragrance_NNP']",-5.717987919,9.69332855
+faintly_RB,8,422,['faintly_RB'],-5.721099189,11.15276017
+intoxicate_VB,10,542,"['intoxicate_VBN', 'intoxicate_VBG']",-5.760220946,10.83083207
+sight_NN,224,12591,"['sight_NNS', 'sight_NN', 'sight_NNP']",-5.812750327,6.345405247
+damp_JJ,21,1202,['damp_JJ'],-5.838903758,9.760442746
+permeate_VB,21,1211,"['permeate_VBZ', 'permeate_VB', 'permeate_VBD', 'permeate_VBN', 'permeate_VBG']",-5.849665727,9.760442746
+smoke_NN,149,9434,"['smoke_NN', 'smoke_NNP']",-5.984485365,6.933591648
+curry_VB,9,598,"['curry_VB', 'curry_VBP']",-6.054076673,10.98283517
+entice_VB,8,573,['entice_VBG'],-6.162391329,11.15276017
+garlic_NN,18,1293,['garlic_NN'],-6.166581558,9.982835167
+emanate_VB,16,1257,"['emanate_VBG', 'emanate_VBD', 'emanate_VBZ', 'emanate_VB']",-6.295768934,10.15276017
+sens_NN,47,3703,['sens_NNS'],-6.299889982,8.598171317
+roasted_JJ,9,723,['roasted_JJ'],-6.327926836,10.98283517
+corps_NN,9,724,['corps_NNS'],-6.329920886,10.98283517
+diminished_JJ,11,893,['diminished_JJ'],-6.343084746,10.69332855
+sweat_NN,20,1675,['sweat_NN'],-6.388017285,9.830832074
+faint_JJ,24,2134,['faint_JJ'],-6.47438196,9.567797668
+sniff_VB,13,1192,"['sniff_VBD', 'sniff_VB', 'sniff_VBG', 'sniff_VBP', 'sniff_VBZ']",-6.518728802,10.45232045
+touch_NN,135,13184,"['touch_NN', 'touch_NNP', 'touch_NNS']",-6.60968493,7.075944572
+vanilla_NN,8,787,['vanilla_NN'],-6.620219826,11.15276017
+unpleasant_JJ,32,3193,['unpleasant_JJ'],-6.640696838,9.152760169
+touch_VB,129,12904,"['touch_VBP', 'touch_VBN', 'touch_VBG', 'touch_VBD', 'touch_VB']",-6.644303468,7.141532913
+decay_VB,9,910,"['decay_VBG', 'decay_VBZ']",-6.659797734,10.98283517
+linger_VB,19,1959,"['linger_VBD', 'linger_VBG', 'linger_VBZ', 'linger_VBP']",-6.687974169,9.904832655
+sulfur_NN,16,1662,['sulfur_NN'],-6.698704667,10.15276017
+nose_NN,68,7260,"['nose_NN', 'nose_NNS']",-6.738290992,8.065297328
+delicious_JJ,23,2578,['delicious_JJ'],-6.808474592,9.629198213
+awful_JJ,25,2887,['awful_JJ'],-6.851499202,9.508903979
+breath_NN,62,7554,['breath_NN'],-6.928828758,8.198563858
+baked_JJ,12,1468,['baked_JJ'],-6.934673752,10.56779767
+pleasant_JJ,50,6219,['pleasant_JJ'],-6.958610712,8.508903979
+dirty_JJ,36,4637,"['dirty_JJ', 'dirty_JJS']",-7.00905101,8.982835167
+rat_NN,36,4744,"['rat_NN', 'rat_NNS']",-7.041963293,8.982835167
+urine_NN,28,3772,['urine_NN'],-7.073759039,9.345405247
+sound_VB,122,16462,"['sound_VBZ', 'sound_VB', 'sound_VBD']",-7.076114664,7.222022831
+sensation_NN,38,5193,"['sensation_NNS', 'sensation_NN']",-7.094424997,8.904832655
+chlorine_NN,16,2251,['chlorine_NN'],-7.136350341,10.15276017
+horrible_JJ,23,3263,['horrible_JJ'],-7.148421316,9.629198213
+nasty_JJ,16,2332,"['nasty_JJ', 'nasty_JJS']",-7.187352073,10.15276017
+re_NN,12,1765,['re_NN'],-7.200489967,10.56779767
+breeze_NN,13,1942,"['breeze_NN', 'breeze_NNS']",-7.222887767,10.45232045
+strawberry_NN,8,1214,"['strawberry_NN', 'strawberry_NNS']",-7.245552706,11.15276017
+exhaust_NN,13,2011,['exhaust_NN'],-7.273257648,10.45232045
+chocolate_NN,20,3238,['chocolate_NN'],-7.338959175,9.830832074
+sound_NN,159,25912,"['sound_NNS', 'sound_NN']",-7.348449798,6.839877213
+alcohol_NN,105,17230,"['alcohol_NN', 'alcohol_NNS']",-7.358389563,7.438514651
+corpse_NN,8,1325,['corpse_NN'],-7.371776644,11.15276017
+soap_NN,18,3006,"['soap_NN', 'soap_NNS']",-7.383704292,9.982835167
+crisp_JJ,9,1540,['crisp_JJ'],-7.418789634,10.98283517
+noisy_JJ,12,2086,['noisy_JJ'],-7.441560942,10.56779767
+keen_JJ,20,3705,['keen_JJ'],-7.533329732,9.830832074
+fresh_JJ,91,17486,"['fresh_JJ', 'fresh_JJS', 'fresh_JJR']",-7.586118043,7.644965529
+mold_NN,16,3164,['mold_NN'],-7.627533884,10.15276017
+coffee_NN,58,11732,"['coffee_NN', 'coffee_NNP']",-7.660180361,8.294779174
+flesh_NN,18,3803,['flesh_NN'],-7.722997222,9.982835167
+marijuana_NN,24,5103,"['marijuana_NN', 'marijuana_NNS']",-7.732167426,9.567797668
+sense_NN,287,61765,['sense_NN'],-7.749594999,5.987853242
+cook_VB,16,3450,"['cook_VBN', 'cook_VBP', 'cook_VBD', 'cook_VBG']",-7.752380647,10.15276017
+sock_NN,8,1731,"['sock_NNS', 'sock_NN']",-7.757390009,11.15276017
+ripe_JJ,8,1734,['ripe_JJ'],-7.759888183,11.15276017
+flower_NN,75,16372,"['flower_NNS', 'flower_NN']",-7.770124261,7.923941478
+sensory_JJ,13,2844,['sensory_JJ'],-7.773266031,10.45232045
+cooking_NN,25,5490,['cooking_NN'],-7.778734244,9.508903979
+funny_JJ,25,5524,['funny_JJ'],-7.787641414,9.508903979
+clothes_NN,41,9081,"['clothes_NNS', 'clothes_NNPS']",-7.791083456,8.795208164
+sewer_NN,14,3120,"['sewer_NN', 'sewer_NNS']",-7.799975392,10.34540525
+hay_NN,19,4410,['hay_NN'],-7.858635427,9.904832655
+spice_NN,8,1906,"['spice_NNS', 'spice_NN']",-7.896332404,11.15276017
+cigar_NN,8,1917,"['cigar_NNS', 'cigar_NN']",-7.904634622,11.15276017
+nasal_JJ,9,2214,['nasal_JJ'],-7.942514505,10.98283517
+wake_VB,24,5972,"['wake_VBN', 'wake_VB', 'wake_VBZ', 'wake_VBP', 'wake_VBD', 'wake_VBG']",-7.959035949,9.567797668
+garbage_NN,14,3534,['garbage_NN'],-7.979731402,10.34540525
+diesel_NN,9,2347,"['diesel_NN', 'diesel_NNS']",-8.026677125,10.98283517
+drift_VB,9,2361,"['drift_VBZ', 'drift_VBD', 'drift_VBN', 'drift_VBG']",-8.035257325,10.98283517
+flavor_NN,24,6428,"['flavor_NN', 'flavor_NNS']",-8.065191713,9.567797668
+emit_VB,13,3485,"['emit_VB', 'emit_VBZ', 'emit_VBP', 'emit_VBG', 'emit_VBN']",-8.066503223,10.45232045
+hearing_NN,128,36209,"['hearing_NN', 'hearing_NNP']",-8.144060713,7.152760169
+lovely_JJ,15,4248,"['lovely_JJ', 'lovely_JJR']",-8.145677455,10.24586957
+salt_NN,31,8790,"['salt_NNS', 'salt_NN']",-8.14745114,9.198563858
+dirt_NN,13,3689,['dirt_NN'],-8.148574356,10.45232045
+soup_NN,9,2595,['soup_NN'],-8.171593822,10.98283517
+rubber_NN,12,3477,['rubber_NN'],-8.178664851,10.56779767
+burning_NN,22,6431,['burning_NN'],-8.191395756,9.69332855
+wet_JJ,30,8807,['wet_JJ'],-8.197544355,9.245869573
+cheese_NN,16,4757,"['cheese_NN', 'cheese_NNS', 'cheese_NNP']",-8.21583631,10.15276017
+liquor_NN,8,2385,['liquor_NN'],-8.219773551,11.15276017
+beer_NN,19,5752,['beer_NN'],-8.241920447,9.904832655
+strange_JJ,35,10602,['strange_JJ'],-8.242765808,9.023477152
+bitter_JJ,12,3649,['bitter_JJ'],-8.248322935,10.56779767
+texture_NN,26,7943,"['texture_NN', 'texture_NNS']",-8.25502857,9.452320451
+leather_NN,11,3442,['leather_NN'],-8.289599763,10.69332855
+gasoline_NN,13,4151,['gasoline_NN'],-8.318803498,10.45232045
+apple_NN,15,4808,"['apple_NNS', 'apple_NN', 'apple_NNPS']",-8.324330585,10.24586957
+burn_VB,37,12415,"['burn_VBD', 'burn_VBG', 'burn_VBP', 'burn_VBN']",-8.390343275,8.943306803
+manure_NN,10,3389,['manure_NN'],-8.404715827,10.83083207
+tongue_NN,14,4753,"['tongue_NN', 'tongue_NNS']",-8.407267764,10.34540525
+cigarette_NN,33,11437,"['cigarette_NN', 'cigarette_NNS']",-8.437026934,9.108366049
+pine_VB,17,5913,"['pine_VBP', 'pine_VB']",-8.442211721,10.06529733
+decay_NN,11,3856,"['decay_NNS', 'decay_NN']",-8.453457718,10.69332855
+bread_NN,19,6750,"['bread_NN', 'bread_NNP', 'bread_NNS']",-8.472744273,9.904832655
+candle_NN,9,3255,"['candle_NN', 'candle_NNS']",-8.498516827,10.98283517
+bathroom_NN,17,6297,"['bathroom_NN', 'bathroom_NNS']",-8.532986111,10.06529733
+wake_NN,12,4696,"['wake_NN', 'wake_NNP']",-8.612254192,10.56779767
+odd_JJ,14,5532,['odd_JJ'],-8.626230519,10.34540525
+orange_NN,8,3162,"['orange_NNS', 'orange_NN']",-8.626621652,11.15276017
+hair_NN,40,15892,['hair_NN'],-8.634084983,8.830832074
+bad_JJ,162,64529,"['bad_JJ', 'bad_JJR', 'bad_JJS']",-8.637810045,6.812910166
+mud_NN,8,3211,['mud_NN'],-8.64880695,11.15276017
+meat_NN,33,13755,"['meat_NNS', 'meat_NN']",-8.7032744,9.108366049
+feel_NN,9,3805,['feel_NN'],-8.723755737,10.98283517
+offensive_JJ,11,4653,['offensive_JJ'],-8.724513853,10.69332855
+dust_NN,20,8601,['dust_NN'],-8.748360595,9.830832074
+distinctive_JJ,13,5825,['distinctive_JJ'],-8.807602616,10.45232045
+grass_NN,29,13122,"['grass_NN', 'grass_NNS']",-8.821719011,9.294779174
+air_NN,117,53929,['air_NN'],-8.848408942,7.282395449
+clean_JJ,41,19114,"['clean_JJ', 'clean_JJR']",-8.864790099,8.795208164
+disturbance_NN,11,5134,"['disturbance_NN', 'disturbance_NNS']",-8.866435962,10.69332855
+dog_NN,41,19259,"['dog_NN', 'dog_NNS']",-8.87569317,8.795208164
+fish_NN,58,27553,['fish_NN'],-8.891940794,8.294779174
+chicken_NN,14,6663,"['chicken_NN', 'chicken_NNS']",-8.894601256,10.34540525
+characteristic_JJ,10,4817,['characteristic_JJ'],-8.911991114,10.83083207
+egg_NN,28,13501,"['egg_NNS', 'egg_NN']",-8.913423727,9.345405247
+strongly_RB,40,19288,['strongly_RB'],-8.913487841,8.830832074
+dry_VB,14,6783,"['dry_VBZ', 'dry_VBG', 'dry_VBN']",-8.920352855,10.34540525
+breathe_VB,11,5429,"['breathe_VBP', 'breathe_VBG', 'breathe_VB', 'breathe_VBD', 'breathe_VBZ', 'breathe_VBN']",-8.94703915,10.69332855
+warm_JJ,28,13861,['warm_JJ'],-8.951388802,9.345405247
+pot_NN,8,3982,['pot_NN'],-8.959277506,11.15276017
+notice_VB,40,20384,"['notice_VB', 'notice_VBD', 'notice_VBP', 'notice_VBN', 'notice_VBG']",-8.993221467,8.830832074
+paint_NN,11,5648,['paint_NN'],-9.004092755,10.69332855
+ear_NN,32,16439,"['ear_NN', 'ear_NNS']",-9.004834921,9.152760169
+terrible_JJ,14,7271,['terrible_JJ'],-9.020583158,10.34540525
+lobby_NN,8,4161,['lobby_NN'],-9.022714573,11.15276017
+sense_VB,10,5235,"['sense_VBP', 'sense_VB', 'sense_VBD', 'sense_VBG']",-9.032045727,10.83083207
+rank_NN,11,5899,['rank_NN'],-9.066823075,10.69332855
+laundry_NN,9,4933,['laundry_NN'],-9.098324571,10.98283517
+hydrogen_NN,9,4961,['hydrogen_NN'],-9.10649024,10.98283517
+noise_NN,26,14639,"['noise_NN', 'noise_NNS']",-9.137089667,9.452320451
+kitchen_NN,17,9672,['kitchen_NN'],-9.152135688,10.06529733
+detect_VB,31,17766,"['detect_VBN', 'detect_VBD', 'detect_VB']",-9.162634966,9.198563858
+consciousness_NN,16,9343,"['consciousness_NN', 'consciousness_NNS']",-9.189670153,10.15276017
+wonderful_JJ,30,17574,['wonderful_JJ'],-9.194264383,9.245869573
+discharge_VB,14,8338,"['discharge_VBP', 'discharge_VB']",-9.218130735,10.34540525
+hot_JJ,37,22790,['hot_JJ'],-9.266659939,8.943306803
+wine_NN,22,13722,"['wine_NN', 'wine_NNS']",-9.284771532,9.69332855
+tobacco_NN,28,17600,['tobacco_NN'],-9.295932886,9.345405247
+thick_JJ,13,8180,['thick_JJ'],-9.29744541,10.45232045
+hear_VB,117,74985,"['hear_VBN', 'hear_VBD', 'hear_VB', 'hear_VBG', 'hear_VBZ', 'hear_VBP']",-9.323949688,7.282395449
+overwhelming_JJ,10,6563,['overwhelming_JJ'],-9.358211623,10.83083207
+rain_NN,23,15211,"['rain_NN', 'rain_NNS']",-9.369265425,9.629198213
+yellow_JJ,15,9974,['yellow_JJ'],-9.377065892,10.24586957
+strong_JJ,118,80342,"['strong_JJ', 'strong_JJR']",-9.411223706,7.270117119
+mix_VB,11,7510,"['mix_VBN', 'mix_VBG', 'mix_VBP', 'mix_VBZ']",-9.415165574,10.69332855
+brown_JJ,13,8883,['brown_JJ'],-9.416391558,10.45232045
+hang_VB,15,10324,"['hang_VBG', 'hang_VBP', 'hang_VBZ', 'hang_VBD']",-9.42682383,10.24586957
+gas_NN,53,36502,"['gas_NN', 'gas_NNS']",-9.427767439,8.424839714
+hell_NN,8,5547,['hell_NN'],-9.43749201,11.15276017
+evil_JJ,12,8648,['evil_JJ'],-9.493188307,10.56779767
+slight_JJ,11,8027,"['slight_JJ', 'slight_JJS']",-9.511213564,10.69332855
+earth_NN,27,19775,['earth_NN'],-9.516502572,9.397872667
+mouth_NN,18,13406,"['mouth_NN', 'mouth_NNS']",-9.540666217,9.982835167
+tea_NN,9,6769,['tea_NN'],-9.554802,10.98283517
+wood_NN,32,24235,"['wood_NN', 'wood_NNS', 'wood_NNP']",-9.564804462,9.152760169
+mild_JJ,8,6236,"['mild_JJR', 'mild_JJ']",-9.606405213,11.15276017
+sharp_JJ,12,9366,"['sharp_JJ', 'sharp_JJR']",-9.608254822,10.56779767
+skin_NN,26,20393,['skin_NN'],-9.615346686,9.452320451
+remind_VB,16,12708,"['remind_VBZ', 'remind_VB', 'remind_VBD', 'remind_VBN']",-9.633449375,10.15276017
+oil_NN,45,35948,"['oil_NN', 'oil_NNS']",-9.64177079,8.660907072
+smoke_VB,9,7256,"['smoke_VBP', 'smoke_VB', 'smoke_VBG', 'smoke_VBN', 'smoke_VBD']",-9.655033739,10.98283517
+apartment_NN,10,8174,['apartment_NN'],-9.674898433,10.83083207
+fill_VB,51,43468,"['fill_VBZ', 'fill_VBN', 'fill_VBD', 'fill_VBP', 'fill_VBG', 'fill_VB']",-9.735240755,8.480334827
+sea_NN,23,19687,['sea_NN'],-9.741393707,9.629198213
+cat_NN,14,11994,"['cat_NN', 'cat_NNP', 'cat_NNS']",-9.742670335,10.34540525
+heavy_JJ,27,23377,"['heavy_JJ', 'heavy_JJR']",-9.757914676,9.397872667
+dress_VB,9,7898,"['dress_VBG', 'dress_VBN', 'dress_VB', 'dress_VBP']",-9.777346651,10.98283517
+love_VB,41,36290,"['love_VBP', 'love_VBD', 'love_VB', 'love_VBZ', 'love_VBN']",-9.789732432,8.795208164
+chemical_NN,40,37432,"['chemical_NN', 'chemical_NNS', 'chemical_NNP']",-9.870056418,8.830832074
+impression_NN,11,10339,"['impression_NNS', 'impression_NN']",-9.876377414,10.69332855
+color_NN,54,51186,"['color_NN', 'color_NNS']",-9.888574147,8.397872667
+distinguish_VB,9,8552,"['distinguish_VBD', 'distinguish_VBG', 'distinguish_VB']",-9.892121136,10.98283517
+everywhere_RB,10,9614,['everywhere_RB'],-9.908992993,10.83083207
+distinct_JJ,13,12806,['distinct_JJ'],-9.944092576,10.45232045
+horse_NN,16,15860,"['horse_NNS', 'horse_NN']",-9.953105151,10.15276017
+milk_NN,14,13994,['milk_NN'],-9.965165854,10.34540525
+plastic_NN,11,11003,"['plastic_NNS', 'plastic_NN']",-9.966177693,10.69332855
+complain_VB,11,11023,"['complain_VBZ', 'complain_VBN', 'complain_VBD', 'complain_VBG', 'complain_VB']",-9.96879768,10.69332855
+nice_JJ,20,20453,"['nice_JJR', 'nice_JJ']",-9.998096755,9.830832074
+shoe_NN,9,9270,"['shoe_NNS', 'shoe_NN']",-10.00842862,10.98283517
+dark_JJ,20,20886,['dark_JJ'],-10.0283205,9.830832074
+cold_JJ,17,17854,['cold_JJ'],-10.03649687,10.06529733
+attract_VB,19,20006,"['attract_VBN', 'attract_VBD', 'attract_VBZ', 'attract_VBG', 'attract_VB']",-10.04021761,9.904832655
+feel_VB,81,85315,"['feel_VBP', 'feel_VB', 'feel_VBG', 'feel_VBZ']",-10.04066179,7.812910166
+soft_JJ,13,13774,"['soft_JJ', 'soft_JJR']",-10.04922024,10.45232045
+slightly_RB,17,18185,['slightly_RB'],-10.06299846,10.06529733
+unusual_JJ,12,13034,['unusual_JJ'],-10.08502978,10.56779767
+stuff_NN,15,16556,['stuff_NN'],-10.10817594,10.24586957
+truck_NN,11,12351,"['truck_NN', 'truck_NNS']",-10.13290862,10.69332855
+finger_NN,9,10143,"['finger_NNS', 'finger_NN']",-10.1382718,10.98283517
+fluid_NN,9,10178,"['fluid_NN', 'fluid_NNS']",-10.14324147,10.98283517
+ocean_NN,11,12463,"['ocean_NN', 'ocean_NNS']",-10.14593215,10.69332855
+close_RB,14,15951,['close_RB'],-10.15400433,10.34540525
+foot_NN,31,35938,['foot_NNS'],-10.17902619,9.198563858
+blood_NN,41,47861,"['blood_NN', 'blood_NNP']",-10.18901092,8.795208164
+cool_JJ,11,12873,"['cool_JJ', 'cool_JJR']",-10.19262907,10.69332855
+pretty_RB,20,23796,['pretty_RB'],-10.21650337,9.830832074
+room_NN,83,99544,"['room_NN', 'room_NNS', 'room_NNP']",-10.22800731,7.777720737
+leaf_NN,14,17050,"['leaf_NN', 'leaf_NNS']",-10.2501292,10.34540525
+definitely_RB,9,10982,['definitely_RB'],-10.25292819,10.98283517
+bag_NN,13,16366,"['bag_NNS', 'bag_NN']",-10.29797442,10.45232045
+cheap_JJ,9,11362,"['cheap_JJ', 'cheap_JJS']",-10.30200419,10.98283517
+anything_NN,41,52768,['anything_NN'],-10.32982368,8.795208164
+fuel_NN,15,19648,['fuel_NN'],-10.35520425,10.24586957
+wind_NN,17,22305,"['wind_NN', 'wind_NNS']",-10.35761669,10.06529733
+fruit_NN,14,18425,"['fruit_NNS', 'fruit_NN']",-10.36202208,10.34540525
+food_NN,79,104759,"['food_NNS', 'food_NN', 'food_NNP']",-10.37293392,7.848979421
+decrease_VB,9,11979,"['decrease_VBN', 'decrease_VBD', 'decrease_VBZ']",-10.37829486,10.98283517
+human_NN,12,16047,"['human_NNS', 'human_NNPS']",-10.38505349,10.56779767
+rich_JJ,18,24366,"['rich_JJ', 'rich_JJR']",-10.40265681,9.982835167
+feeling_NN,23,31139,"['feeling_NN', 'feeling_NNS']",-10.40287304,9.629198213
+eat_VB,27,37449,"['eat_VB', 'eat_VBG', 'eat_VBN', 'eat_VBD', 'eat_VBP', 'eat_VBZ']",-10.43775207,9.397872667
+familiar_JJ,14,19577,['familiar_JJ'],-10.44951716,10.34540525
+french_JJ,16,22605,['french_JJ'],-10.4643543,10.15276017
+vegetable_NN,8,11479,"['vegetable_NN', 'vegetable_NNS']",-10.48670935,11.15276017
+spirit_NN,19,27319,"['spirit_NNS', 'spirit_NNP', 'spirit_NN']",-10.48968954,9.904832655
+green_JJ,14,20170,['green_JJ'],-10.49256854,10.34540525
+recall_VB,8,11556,"['recall_VBD', 'recall_VB', 'recall_VBP', 'recall_VBG']",-10.49635449,11.15276017
+appearance_NN,10,14535,['appearance_NN'],-10.50531536,10.83083207
+vision_NN,20,29707,"['vision_NN', 'vision_NNS']",-10.5365872,9.830832074
+catch_VB,16,24364,"['catch_VB', 'catch_VBZ', 'catch_VBD', 'catch_VBN', 'catch_VBG']",-10.57246339,10.15276017
+shop_NN,12,18559,"['shop_NNS', 'shop_NN']",-10.59486886,10.56779767
+could_MD,227,353052,['could_MD'],-10.60297268,6.326211681
+street_NN,21,32797,"['street_NN', 'street_NNS']",-10.60895881,9.760442746
+hide_VB,9,14472,"['hide_VB', 'hide_VBD', 'hide_VBG', 'hide_VBN']",-10.65105169,10.98283517
+miss_VB,8,12898,"['miss_VBP', 'miss_VBD', 'miss_VB', 'miss_VBZ']",-10.65485975,11.15276017
+approach_VB,11,18006,"['approach_VBN', 'approach_VBP', 'approach_VBG', 'approach_VB', 'approach_VBD']",-10.67675849,10.69332855
+sensitive_JJ,10,16434,['sensitive_JJ'],-10.68246796,10.83083207
+something_NN,62,102998,['something_NN'],-10.69806049,8.198563858
+stop_VB,29,48442,"['stop_VBG', 'stop_VBZ', 'stop_VB', 'stop_VBD', 'stop_VBP']",-10.70598981,9.294779174
+fire_NN,26,43748,"['fire_NN', 'fire_NNS']",-10.71648973,9.452320451
+everything_NN,28,47253,"['everything_NN', 'everything_NNP']",-10.72076338,9.345405247
+speech_NN,16,27215,['speech_NN'],-10.73211442,10.15276017
+dry_JJ,11,18893,['dry_JJ'],-10.74613256,10.69332855
+garden_NN,13,22372,"['garden_NN', 'garden_NNP', 'garden_NNS']",-10.7489669,10.45232045
+almost_RB,42,72588,['almost_RB'],-10.75512602,8.760442746
+guy_NN,12,20759,"['guy_NN', 'guy_NNP', 'guy_NNS']",-10.75648683,10.56779767
+somewhat_RB,11,19038,['somewhat_RB'],-10.75716269,10.69332855
+substance_NN,12,20909,"['substance_NN', 'substance_NNS']",-10.76687394,10.56779767
+loss_NN,26,45988,['loss_NN'],-10.78853012,9.452320451
+see_VB,186,333265,"['see_VBN', 'see_VBG', 'see_VB', 'see_VBP', 'see_VBZ']",-10.80715147,6.613601358
+bird_NN,13,23660,"['bird_NNS', 'bird_NN']",-10.82972274,10.45232045
+beautiful_JJ,12,21883,['beautiful_JJ'],-10.83256041,10.56779767
+metal_NN,9,16533,"['metal_NN', 'metal_NNS']",-10.84313591,10.98283517
+sleep_VB,8,14705,"['sleep_VB', 'sleep_VBG', 'sleep_VBD']",-10.84401916,11.15276017
+neighbor_NN,8,14752,"['neighbor_NN', 'neighbor_NNS']",-10.84862294,11.15276017
+morning_NN,18,33902,['morning_NN'],-10.87915776,9.982835167
+dead_JJ,11,20982,['dead_JJ'],-10.89743296,10.69332855
+death_NN,30,58214,['death_NN'],-10.92218794,9.245869573
